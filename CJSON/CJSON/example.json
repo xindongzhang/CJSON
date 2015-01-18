@@ -1,0 +1,10 @@
+{
+    "school": "Tongji", 
+    "properties": {
+        age: 18, 
+        "courses": [
+            "C language", 
+            "C++ and Java"
+        ]
+    }
+}
